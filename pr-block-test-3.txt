@@ -1,0 +1,3 @@
+Adding these two options below on Snyk:
+- Only fail for high or critical severity issues
+- Only fail when the issues found have a fix available
